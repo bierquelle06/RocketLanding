@@ -3,3 +3,6 @@
 ################################################################################
 
 /RocketLanding.Business/obj
+/RocketLanding.Business/bin/Debug/netcoreapp3.1
+/RocketLanding.Test/obj
+/RocketLanding.Test/bin/Debug/netcoreapp3.1
